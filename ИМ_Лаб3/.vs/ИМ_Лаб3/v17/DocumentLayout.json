@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio\\Project\\\u0418\u041C_\u041B\u0430\u04313\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DD5C61-2CCD-4561-A566-B0C6B2DC6A3E}|\u0418\u041C_\u041B\u0430\u04313\\\u0418\u041C_\u041B\u0430\u04313.csproj|D:\\Visual Studio\\Project\\\u0418\u041C_\u041B\u0430\u04313\\\u0438\u043C_\u043B\u0430\u04313\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7DD5C61-2CCD-4561-A566-B0C6B2DC6A3E}|\u0418\u041C_\u041B\u0430\u04313\\\u0418\u041C_\u041B\u0430\u04313.csproj|solutionrelative:\u0438\u043C_\u043B\u0430\u04313\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DD5C61-2CCD-4561-A566-B0C6B2DC6A3E}|\u0418\u041C_\u041B\u0430\u04313\\\u0418\u041C_\u041B\u0430\u04313.csproj|d:\\visual studio\\project\\\u0438\u043C_\u043B\u0430\u04313\\\u0438\u043C_\u043B\u0430\u04313\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7DD5C61-2CCD-4561-A566-B0C6B2DC6A3E}|\u0418\u041C_\u041B\u0430\u04313\\\u0418\u041C_\u041B\u0430\u04313.csproj|solutionrelative:\u0438\u043C_\u043B\u0430\u04313\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\Project\\\u0418\u041C_\u041B\u0430\u04313\\\u0418\u041C_\u041B\u0430\u04313\\Form1.cs",
+              "RelativeDocumentMoniker": "\u0418\u041C_\u041B\u0430\u04313\\Form1.cs",
+              "ToolTip": "D:\\Visual Studio\\Project\\\u0418\u041C_\u041B\u0430\u04313\\\u0418\u041C_\u041B\u0430\u04313\\Form1.cs",
+              "RelativeToolTip": "\u0418\u041C_\u041B\u0430\u04313\\Form1.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAYwDkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T13:28:32.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\Visual Studio\\Project\\\u0418\u041C_\u041B\u0430\u04313\\\u0418\u041C_\u041B\u0430\u04313\\Form1.cs",
+              "RelativeDocumentMoniker": "\u0418\u041C_\u041B\u0430\u04313\\Form1.cs",
+              "ToolTip": "D:\\Visual Studio\\Project\\\u0418\u041C_\u041B\u0430\u04313\\\u0418\u041C_\u041B\u0430\u04313\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "\u0418\u041C_\u041B\u0430\u04313\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T13:25:54.023Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
